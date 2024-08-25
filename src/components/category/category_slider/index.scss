@@ -1,0 +1,20 @@
+.category_slider {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    .swiper-slide {
+        position: relative;
+        padding-top: 50px;
+        .box_style_one {
+            padding-top: 70px;
+            text-align: center;
+            width: 100%;
+            img {
+                position: absolute;
+                top: 0;
+                right: 32%;
+                z-index: 1;
+            }
+        }
+    }
+    
+}

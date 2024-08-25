@@ -1,0 +1,23 @@
+.default_header {
+    background-color: #fff;
+	padding: 20px 0 0 0;
+
+	.header_content {
+		display: flex;
+		padding-bottom: 20px;
+	}
+	.left_header {
+		display: flex;
+		margin-right: auto;
+	}
+	.svg {
+		width: 30px;
+		height: 30px;
+	}
+
+	.header_bottom {
+		border-top: 2px solid #f2f2f2;
+		border-bottom: 2px solid #f2f2f2;
+		padding: 5px 0;
+	}
+}
